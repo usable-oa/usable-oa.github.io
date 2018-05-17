@@ -1,5 +1,3 @@
 [submodule "repos/thewebconf2018"]
 	path = repos/thewebconf2018
 	url = https://github.com/usable-oa/thewebconf2018.git
-
-#
